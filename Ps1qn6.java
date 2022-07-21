@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.DecimalFormat;
 
-public class Ps2qn1 {
+public class Ps1qn6 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number :");

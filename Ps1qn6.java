@@ -15,7 +15,7 @@ public class Ps2qn1 {
         }
         System.out.print("Char equivalent of " + x + " : " + (char)x);
         System.out.println();
-        float y = x;
+        float y;
 //        System.out.println("y/3 : " + (float)y/3);
 //        System.out.println("y/3/3 : " + (float)y/3/3);
 //        System.out.println("y/3/3/3 : " + (float)y/3/3/3);

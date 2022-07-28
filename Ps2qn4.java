@@ -27,6 +27,5 @@ class Ps2qn4{
         System.out.println("Total amt withdrawed : "+Account.getAmtWithdraw());
         System.out.println("Total no of withdrawals :" + Account.getNumWithdraw());
         System.out.println("Total no of deposits : "+ Account.getNumDeposit());
-        System.out.println("Total amt deposited :" + Account.getAmtDeposit());
     }
 }
